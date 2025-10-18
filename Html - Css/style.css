@@ -176,6 +176,7 @@ h2 {
   background: linear-gradient(135deg, #1c1c22 0%, #0b0b49 100%);
   padding: 2rem;
   border-radius: 15px;
+  margin: 20px;
   text-align: center;
   color: #ffffff;
   transition: transform 0.3s ease;
@@ -201,6 +202,7 @@ h2 {
 .project-card {
   background: rgba(26, 26, 46, 0.9);
   border-radius: 15px;
+  margin: 20px;
   overflow: hidden;
   box-shadow: 0 5px 15px rgba(0,0,0,0.3);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
