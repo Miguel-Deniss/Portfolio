@@ -103,7 +103,7 @@ nav {
 
 .cta-button {
   display: inline-block;
-  background: linear-gradient(45deg, #201e26, #515ed3);
+  background: linear-gradient(45deg, #201e26, #5198d3);
   color: white;
   padding: 12px 30px;
   text-decoration: none;
@@ -151,7 +151,7 @@ h2 {
   max-width: 300px;
   height: 300px;
   border-radius: 50%;
-  background: linear-gradient(45deg, #1c2241, #764ba2);
+  background: linear-gradient(45deg, #1c2241, #a062de);
   display: flex;
   align-items: center;
   justify-content: center;
